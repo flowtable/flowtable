@@ -1,3 +1,3 @@
-module flowtable
+module github.com/flowtable/flowtable
 
-go 1.18
+go 1.17
